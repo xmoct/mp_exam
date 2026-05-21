@@ -1,4 +1,4 @@
-# 需要按照的模块
+# 需要安装的模块
 ## requirements.txt
 openpyxl
 tk
